@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 ![Imgur Image](https://media.giphy.com/media/UoDXVzkxQGWdT3D4Rv/giphy.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Giphy](https://giphy.com/).
 
 ## Notes
 
